@@ -1,0 +1,2 @@
+# AlternatifBankCoreProject
+Core Projesi için
